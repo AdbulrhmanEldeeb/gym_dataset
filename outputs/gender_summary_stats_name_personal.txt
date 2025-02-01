@@ -1,0 +1,5 @@
+       name_personal_trainer                     
+                       count unique      top freq
+gender                                           
+Female                   248      4  Chantal   82
+Male                     270      4     Mike   86

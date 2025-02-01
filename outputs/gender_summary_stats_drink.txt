@@ -1,0 +1,5 @@
+       drink_abo                  
+           count unique   top freq
+gender                            
+Female        51      2  True   30
+Male          81      2  True   46

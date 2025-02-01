@@ -1,0 +1,5 @@
+       uses_sauna                   
+            count unique    top freq
+gender                              
+Female        503      2  False  262
+Male          497      2   True  252

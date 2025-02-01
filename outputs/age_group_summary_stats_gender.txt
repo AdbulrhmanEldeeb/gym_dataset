@@ -1,0 +1,8 @@
+          gender                    
+           count unique     top freq
+age_group                           
+18-25        360      2  Female  193
+26-35        268      2  Female  137
+36-45        270      2    Male  136
+46-55        102      2    Male   63
+55+            0      0     NaN  NaN

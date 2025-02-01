@@ -1,0 +1,133 @@
+id,gender,birthday,Age,abonoment_type,visit_per_week,days_per_week,attend_group_lesson,fav_group_lesson,avg_time_check_in,avg_time_check_out,avg_time_in_gym,drink_abo,fav_drink,personal_training,name_personal_trainer,uses_sauna,age_group
+2,Female,1977-09-18,47,Standard,3,"Mon, Sat, Wed",False,,19:31:00,20:19:00,48,False,,True,Chantal,False,46-55
+9,Male,1978-07-28,46,Premium,3,"Sat, Sun, Thu",True,BodyPump,09:45:00,11:17:00,92,True,"orange, lemon",True,Mike,False,46-55
+34,Female,1976-12-07,47,Premium,2,"Mon, Sat",True,"XCore, Running, BodyBalance",14:42:00,16:08:00,86,False,,True,Hanna,True,46-55
+45,Male,1976-01-19,48,Premium,2,"Tue, Wed",False,,09:57:00,12:35:00,158,False,,True,Hanna,True,46-55
+49,Female,1975-10-23,48,Premium,3,"Fri, Thu, Tue",True,"Yoga, BodyBalance",11:56:00,14:13:00,137,False,,True,Chantal,True,46-55
+51,Male,1979-07-17,45,Standard,3,"Mon, Sun, Thu",False,,09:43:00,11:16:00,93,True,"coconut_pineapple, passion_fruit",False,,True,36-45
+58,Male,1977-12-30,46,Premium,5,"Fri, Mon, Sat, Thu, Tue",True,"BodyBalance, BodyPump",12:19:00,12:49:00,30,False,,True,Chantal,True,46-55
+61,Female,1977-05-08,47,Premium,3,"Mon, Sun, Wed",False,,18:30:00,20:17:00,107,False,,True,Chantal,False,46-55
+66,Female,1979-03-27,45,Premium,4,"Fri, Thu, Tue, Wed",False,,13:06:00,13:54:00,48,False,,False,,True,36-45
+81,Male,1978-10-15,45,Standard,2,"Mon, Sat",False,,12:35:00,15:18:00,163,True,berry_boost,True,Mike,True,36-45
+87,Male,1977-06-27,47,Premium,3,"Fri, Sat, Tue",True,"Kickboxen, HIT, BodyPump",12:51:00,14:37:00,106,False,,True,Chantal,True,46-55
+90,Female,1978-08-24,46,Standard,1,Sat,False,,11:13:00,13:19:00,126,True,"lemon, berry_boost",False,,True,46-55
+104,Female,1976-12-20,47,Premium,2,"Sat, Tue",False,,13:19:00,14:50:00,91,True,coconut_pineapple,True,Mike,True,46-55
+113,Female,1977-07-31,47,Premium,1,Sun,False,,16:23:00,18:07:00,104,False,,True,Chantal,False,46-55
+117,Male,1975-04-04,49,Standard,1,Tue,True,Pilates,18:02:00,18:44:00,42,True,"berry_boost, lemon",False,,False,46-55
+119,Male,1978-07-07,46,Premium,3,"Mon, Sun, Wed",True,"HIT, BodyPump",13:30:00,14:37:00,67,False,,True,Jeffrey,False,46-55
+129,Male,1977-03-30,47,Premium,1,Sun,True,"Running, BodyBalance",12:24:00,13:14:00,50,False,,True,Hanna,True,46-55
+144,Male,1975-03-11,49,Premium,3,"Fri, Thu, Wed",True,"XCore, Zumba, LesMiles",20:30:00,21:24:00,54,True,passion_fruit,True,Jeffrey,True,46-55
+153,Male,1977-07-22,47,Premium,2,"Fri, Tue",True,"Running, BodyPump",16:41:00,18:02:00,81,True,"passion_fruit, orange",True,Chantal,True,46-55
+155,Male,1977-08-27,47,Standard,1,Fri,False,,14:41:00,15:21:00,40,True,orange,True,Hanna,False,46-55
+172,Female,1975-07-05,49,Standard,5,"Sat, Sun, Thu, Tue, Wed",True,Pilates,08:15:00,08:50:00,35,False,,False,,False,46-55
+173,Male,1977-07-27,47,Standard,2,"Sun, Thu",False,,16:55:00,19:13:00,138,True,black_currant,False,,True,46-55
+174,Male,1975-03-17,49,Premium,1,Sat,False,,11:21:00,12:46:00,85,False,,False,,True,46-55
+176,Male,1976-02-24,48,Standard,4,"Fri, Thu, Tue, Wed",False,,09:34:00,10:11:00,37,False,,False,,False,46-55
+180,Male,1976-06-20,48,Premium,3,"Fri, Sat, Thu",True,"Kickboxen, Running, LesMiles",08:33:00,10:13:00,100,True,passion_fruit,True,Jeffrey,True,46-55
+186,Female,1975-03-24,49,Standard,3,"Fri, Sun, Wed",False,,17:42:00,19:00:00,78,True,passion_fruit,True,Mike,True,46-55
+195,Male,1979-04-24,45,Premium,2,"Mon, Wed",False,,11:23:00,13:41:00,138,True,"black_currant, coconut_pineapple",False,,True,36-45
+201,Male,1978-09-29,46,Standard,4,"Fri, Mon, Sat, Wed",True,"HIT, XCore, Kickboxen",13:31:00,15:47:00,136,True,"black_currant, coconut_pineapple",True,Mike,False,46-55
+202,Male,1975-05-25,49,Premium,4,"Mon, Sat, Tue, Wed",False,,08:21:00,08:52:00,31,True,black_currant,False,,False,46-55
+206,Male,1978-03-21,46,Standard,1,Sun,True,Zumba,18:06:00,20:49:00,163,True,"berry_boost, black_currant",False,,False,46-55
+216,Male,1975-04-11,49,Premium,3,"Fri, Mon, Wed",False,,12:37:00,13:15:00,38,True,lemon,True,Mike,False,46-55
+218,Female,1978-01-12,46,Premium,3,"Sun, Thu, Wed",True,BodyPump,18:01:00,18:36:00,35,True,"coconut_pineapple, passion_fruit",False,,False,46-55
+219,Male,1979-06-18,45,Standard,5,"Fri, Mon, Sun, Tue, Wed",True,"Spinning, BodyBalance, BodyPump",14:59:00,16:59:00,120,False,,False,,True,36-45
+221,Male,1979-03-05,45,Premium,2,"Sun, Tue",False,,12:13:00,14:47:00,154,True,passion_fruit,True,Chantal,True,36-45
+222,Male,1975-04-08,49,Premium,3,"Fri, Sun, Thu",True,"Pilates, XCore, Spinning",20:01:00,22:34:00,153,False,,True,Mike,False,46-55
+227,Female,1976-10-01,48,Premium,3,"Mon, Sat, Tue",True,"XCore, BodyPump",20:37:00,21:48:00,71,False,,True,Jeffrey,True,46-55
+243,Female,1975-08-16,49,Premium,1,Sun,False,,13:58:00,14:35:00,37,True,berry_boost,True,Mike,False,46-55
+257,Male,1979-03-28,45,Standard,2,"Mon, Wed",True,"XCore, HIT, Kickboxen",08:12:00,10:09:00,117,True,"coconut_pineapple, black_currant",False,,False,36-45
+262,Female,1977-05-27,47,Premium,2,"Mon, Sat",True,"Yoga, Pilates",08:39:00,09:38:00,59,True,black_currant,True,Chantal,True,46-55
+264,Male,1976-07-05,48,Standard,5,"Fri, Mon, Sat, Sun, Thu",False,,15:42:00,18:35:00,173,False,,True,Hanna,True,46-55
+271,Male,1976-12-28,47,Standard,3,"Fri, Mon, Sun",False,,10:08:00,11:02:00,54,False,,True,Hanna,False,46-55
+272,Male,1975-01-12,49,Premium,2,"Fri, Tue",True,Yoga,13:20:00,14:26:00,66,False,,True,Chantal,True,46-55
+285,Male,1976-06-08,48,Premium,4,"Mon, Sun, Thu, Wed",False,,13:33:00,14:08:00,35,True,lemon,False,,False,46-55
+302,Male,1979-01-03,45,Standard,3,"Fri, Tue, Wed",True,BodyPump,12:48:00,15:24:00,156,False,,True,Jeffrey,True,36-45
+313,Male,1975-12-28,48,Standard,1,Tue,True,"BodyPump, HIT",19:29:00,22:21:00,172,True,"passion_fruit, coconut_pineapple",False,,True,46-55
+326,Female,1977-07-03,47,Standard,3,"Mon, Sun, Tue",False,,18:24:00,19:13:00,49,True,"coconut_pineapple, lemon",False,,False,46-55
+336,Female,1975-03-02,49,Standard,1,Wed,True,"Running, Zumba, LesMiles",10:40:00,11:24:00,44,False,,True,Chantal,False,46-55
+372,Female,1978-10-10,46,Premium,5,"Fri, Sun, Thu, Tue, Wed",True,"Running, BodyPump",11:18:00,14:06:00,168,True,"coconut_pineapple, black_currant",True,Jeffrey,True,46-55
+382,Male,1978-12-06,45,Premium,2,"Mon, Wed",True,"HIT, Spinning",14:20:00,17:20:00,180,True,black_currant,True,Hanna,True,36-45
+386,Male,1975-06-09,49,Premium,1,Fri,True,"Kickboxen, BodyBalance",13:06:00,14:29:00,83,False,,True,Hanna,True,46-55
+398,Female,1979-06-28,45,Premium,2,"Mon, Thu",True,"LesMiles, Yoga, Zumba",10:37:00,13:10:00,153,True,"coconut_pineapple, lemon",True,Hanna,True,36-45
+410,Male,1979-04-01,45,Premium,3,"Sun, Tue, Wed",False,,11:20:00,14:08:00,168,False,,True,Mike,True,36-45
+418,Female,1975-09-25,49,Premium,3,"Mon, Sun, Wed",False,,19:37:00,21:31:00,114,True,"berry_boost, coconut_pineapple",False,,False,46-55
+420,Male,1978-02-27,46,Premium,2,"Fri, Tue",False,,11:27:00,13:39:00,132,True,"coconut_pineapple, black_currant",True,Hanna,False,46-55
+433,Female,1977-01-28,47,Premium,3,"Sat, Sun, Thu",False,,14:51:00,17:38:00,167,True,orange,False,,True,46-55
+444,Male,1975-02-23,49,Standard,2,"Mon, Sun",False,,18:40:00,20:46:00,126,False,,True,Hanna,True,46-55
+459,Male,1978-03-02,46,Standard,3,"Sat, Thu, Tue",False,,18:28:00,19:40:00,72,False,,True,Jeffrey,False,46-55
+471,Female,1976-04-23,48,Standard,1,Fri,False,,10:42:00,11:57:00,75,True,lemon,True,Chantal,True,46-55
+472,Male,1979-01-02,45,Standard,1,Mon,True,"Running, LesMiles",09:31:00,10:42:00,71,True,"orange, lemon",False,,True,36-45
+481,Female,1979-03-26,45,Standard,1,Sun,False,,20:40:00,23:14:00,154,True,berry_boost,False,,False,36-45
+485,Male,1979-03-31,45,Standard,1,Mon,True,Yoga,18:07:00,19:42:00,95,False,,False,,False,36-45
+486,Male,1975-09-16,49,Standard,3,"Sun, Tue, Wed",True,Pilates,17:10:00,18:03:00,53,True,"orange, coconut_pineapple",True,Mike,True,46-55
+491,Female,1975-07-18,49,Premium,1,Fri,True,Running,08:06:00,10:41:00,155,False,,True,Jeffrey,False,46-55
+507,Female,1977-05-24,47,Premium,2,"Sun, Tue",True,"LesMiles, BodyBalance",15:09:00,16:18:00,69,True,"berry_boost, black_currant",True,Chantal,True,46-55
+508,Male,1979-09-18,45,Standard,1,Mon,False,,19:23:00,20:50:00,87,False,,True,Jeffrey,True,36-45
+516,Female,1975-10-30,48,Premium,1,Wed,True,Yoga,14:44:00,17:01:00,137,False,,True,Chantal,False,46-55
+530,Female,1979-04-17,45,Premium,3,"Fri, Sat, Tue",True,"Kickboxen, BodyPump",19:59:00,20:57:00,58,True,"coconut_pineapple, orange",False,,True,36-45
+532,Male,1976-09-28,48,Premium,4,"Mon, Sun, Thu, Tue",True,BodyPump,16:04:00,18:33:00,149,False,,True,Chantal,False,46-55
+541,Male,1976-09-04,48,Premium,2,"Mon, Thu",False,,16:59:00,18:18:00,79,False,,False,,False,46-55
+554,Female,1978-01-19,46,Premium,3,"Sat, Thu, Tue",True,"BodyPump, LesMiles",18:15:00,20:10:00,115,False,,True,Jeffrey,True,46-55
+558,Male,1975-11-26,48,Standard,3,"Mon, Tue, Wed",False,,15:32:00,16:25:00,53,True,passion_fruit,True,Hanna,True,46-55
+559,Female,1978-08-08,46,Premium,2,"Mon, Tue",False,,17:54:00,19:17:00,83,False,,False,,True,46-55
+560,Female,1979-07-13,45,Standard,2,"Thu, Wed",False,,15:36:00,17:56:00,140,False,,True,Hanna,True,36-45
+571,Female,1975-04-20,49,Premium,2,"Tue, Wed",False,,10:11:00,11:28:00,77,True,berry_boost,True,Hanna,False,46-55
+574,Female,1975-03-30,49,Premium,2,"Mon, Sun",False,,19:30:00,20:52:00,82,True,berry_boost,True,Chantal,False,46-55
+581,Male,1975-09-09,49,Premium,3,"Mon, Sat, Sun",False,,15:25:00,18:05:00,160,True,orange,False,,True,46-55
+596,Male,1978-07-25,46,Premium,5,"Mon, Sat, Thu, Tue, Wed",False,,20:46:00,22:09:00,83,True,"orange, black_currant",True,Hanna,True,46-55
+597,Male,1975-12-22,48,Premium,1,Fri,False,,18:52:00,20:11:00,79,True,orange,True,Mike,False,46-55
+602,Male,1975-04-28,49,Standard,2,"Sat, Wed",False,,15:41:00,17:45:00,124,True,"passion_fruit, orange",False,,False,46-55
+605,Male,1979-02-18,45,Standard,3,"Mon, Sat, Tue",True,HIT,17:42:00,20:36:00,174,False,,False,,True,36-45
+612,Female,1979-05-08,45,Standard,3,"Mon, Sun, Wed",False,,13:42:00,15:54:00,132,False,,False,,False,36-45
+619,Male,1976-01-20,48,Premium,3,"Mon, Sun, Tue",False,,14:29:00,15:10:00,41,False,,True,Jeffrey,False,46-55
+622,Female,1976-04-24,48,Premium,3,"Fri, Sat, Thu",True,"Kickboxen, BodyBalance",15:30:00,16:26:00,56,True,"coconut_pineapple, black_currant",True,Hanna,False,46-55
+642,Female,1976-11-06,47,Standard,2,"Fri, Mon",True,"Yoga, Spinning, XCore",12:42:00,13:37:00,55,True,"berry_boost, orange",True,Mike,True,46-55
+646,Male,1975-08-16,49,Premium,3,"Fri, Sun, Thu",False,,17:16:00,19:52:00,156,True,passion_fruit,False,,False,46-55
+654,Male,1978-01-01,46,Premium,1,Sun,False,,14:38:00,17:21:00,163,True,"orange, passion_fruit",False,,True,46-55
+660,Male,1977-06-17,47,Premium,2,"Fri, Sun",False,,09:58:00,12:31:00,153,False,,False,,True,46-55
+667,Male,1976-03-12,48,Premium,2,"Fri, Tue",True,"Spinning, Pilates",11:46:00,13:17:00,91,True,"black_currant, coconut_pineapple",False,,True,46-55
+672,Male,1977-01-08,47,Standard,2,"Sun, Wed",True,LesMiles,08:13:00,10:18:00,125,False,,True,Jeffrey,True,46-55
+683,Male,1975-06-05,49,Standard,1,Tue,True,"HIT, Running, Kickboxen",20:23:00,21:08:00,45,True,orange,False,,True,46-55
+690,Male,1979-08-28,45,Premium,3,"Mon, Sat, Tue",False,,13:10:00,15:15:00,125,True,passion_fruit,False,,True,36-45
+698,Male,1975-03-21,49,Standard,3,"Fri, Mon, Tue",False,,14:52:00,15:25:00,33,True,"passion_fruit, black_currant",True,Chantal,False,46-55
+724,Male,1977-07-15,47,Premium,2,"Mon, Tue",True,"HIT, Pilates",19:06:00,19:43:00,37,False,,True,Chantal,True,46-55
+733,Male,1977-01-24,47,Standard,1,Tue,True,"BodyPump, Running",18:15:00,19:59:00,104,True,coconut_pineapple,False,,True,46-55
+738,Female,1976-09-28,48,Standard,5,"Mon, Sat, Thu, Tue, Wed",True,Yoga,11:21:00,13:42:00,141,True,coconut_pineapple,True,Jeffrey,True,46-55
+750,Female,1975-04-26,49,Standard,5,"Fri, Mon, Sun, Tue, Wed",True,"BodyBalance, BodyPump, Running",10:28:00,11:19:00,51,False,,False,,False,46-55
+763,Female,1978-11-22,45,Premium,3,"Fri, Mon, Wed",True,"LesMiles, Kickboxen",15:39:00,17:34:00,115,True,"coconut_pineapple, orange",True,Mike,True,36-45
+766,Female,1978-03-17,46,Premium,1,Thu,True,"Kickboxen, Running",14:44:00,16:58:00,134,False,,True,Chantal,False,46-55
+778,Male,1978-05-27,46,Premium,3,"Mon, Thu, Tue",True,Pilates,20:17:00,21:11:00,54,False,,False,,True,46-55
+781,Male,1978-02-28,46,Premium,4,"Mon, Sat, Thu, Wed",True,"Pilates, LesMiles",16:32:00,18:14:00,102,True,"lemon, orange",True,Hanna,True,46-55
+786,Female,1979-09-19,45,Premium,4,"Fri, Thu, Tue, Wed",False,,19:32:00,20:18:00,46,True,"orange, coconut_pineapple",False,,False,36-45
+788,Male,1976-04-13,48,Standard,3,"Mon, Sat, Tue",False,,19:44:00,20:51:00,67,True,coconut_pineapple,False,,False,46-55
+791,Female,1977-06-26,47,Standard,3,"Sat, Thu, Tue",False,,16:49:00,19:46:00,177,True,"berry_boost, orange",False,,False,46-55
+797,Male,1978-01-21,46,Standard,5,"Fri, Mon, Sat, Tue, Wed",True,"Spinning, Yoga",09:41:00,12:38:00,177,True,orange,True,Chantal,True,46-55
+801,Female,1977-07-23,47,Standard,2,"Fri, Tue",True,"LesMiles, Yoga",19:19:00,20:50:00,91,False,,False,,False,46-55
+805,Female,1976-06-04,48,Premium,2,"Mon, Thu",True,"BodyPump, XCore, Zumba",08:15:00,10:01:00,106,True,lemon,True,Jeffrey,True,46-55
+813,Male,1975-06-22,49,Standard,5,"Mon, Sat, Sun, Thu, Tue",False,,14:07:00,15:03:00,56,True,"berry_boost, orange",False,,False,46-55
+816,Male,1977-05-28,47,Standard,2,"Sat, Thu",False,,12:18:00,13:33:00,75,True,orange,True,Mike,False,46-55
+822,Male,1975-10-11,49,Premium,3,"Mon, Sat, Sun",False,,19:44:00,20:26:00,42,True,"orange, black_currant",True,Chantal,True,46-55
+825,Male,1975-07-30,49,Premium,3,"Sat, Sun, Tue",True,"Zumba, BodyPump",10:53:00,13:29:00,156,False,,True,Mike,False,46-55
+838,Male,1975-07-29,49,Standard,3,"Fri, Sat, Thu",True,"Zumba, Running",20:40:00,21:24:00,44,False,,True,Mike,False,46-55
+839,Female,1978-12-24,45,Standard,2,"Thu, Wed",False,,08:54:00,10:19:00,85,False,,True,Hanna,True,36-45
+840,Female,1975-11-12,48,Standard,2,"Fri, Tue",False,,20:26:00,22:46:00,140,False,,True,Hanna,False,46-55
+846,Male,1979-01-14,45,Standard,2,"Sat, Tue",True,HIT,15:59:00,18:46:00,167,False,,True,Hanna,True,36-45
+864,Male,1976-09-24,48,Premium,3,"Fri, Sat, Sun",True,"BodyBalance, LesMiles",16:01:00,18:16:00,135,False,,True,Hanna,True,46-55
+865,Male,1979-03-18,45,Standard,4,"Sat, Sun, Thu, Tue",False,,11:19:00,12:16:00,57,False,,True,Hanna,True,36-45
+868,Female,1979-02-03,45,Standard,2,"Fri, Wed",True,"BodyBalance, Zumba",18:26:00,21:21:00,175,True,"orange, passion_fruit",True,Mike,False,36-45
+884,Male,1975-06-21,49,Standard,1,Tue,True,"HIT, BodyPump, XCore",16:18:00,17:35:00,77,True,orange,False,,False,46-55
+891,Male,1977-09-19,47,Premium,5,"Sat, Sun, Thu, Tue, Wed",False,,11:26:00,12:55:00,89,False,,False,,True,46-55
+896,Female,1979-05-08,45,Premium,4,"Fri, Sun, Thu, Tue",False,,10:05:00,10:55:00,50,True,"coconut_pineapple, passion_fruit",True,Hanna,True,36-45
+907,Male,1976-07-28,48,Standard,2,"Thu, Wed",True,"Zumba, HIT, XCore",15:12:00,17:17:00,125,True,"berry_boost, black_currant",False,,False,46-55
+912,Female,1977-08-19,47,Standard,1,Mon,False,,19:32:00,20:22:00,50,True,lemon,False,,False,46-55
+919,Male,1979-07-23,45,Premium,5,"Fri, Sat, Sun, Thu, Tue",False,,19:43:00,21:01:00,78,True,"passion_fruit, black_currant",False,,False,36-45
+937,Male,1975-08-05,49,Premium,3,"Sat, Sun, Tue",True,Zumba,10:55:00,12:18:00,83,True,orange,False,,True,46-55
+941,Male,1978-12-21,45,Premium,3,"Fri, Sat, Sun",False,,10:21:00,12:38:00,137,False,,True,Hanna,True,36-45
+945,Female,1975-11-29,48,Standard,2,"Thu, Wed",False,,17:14:00,20:05:00,171,False,,True,Jeffrey,True,46-55
+953,Female,1977-06-25,47,Standard,2,"Mon, Wed",True,"BodyPump, Zumba",18:47:00,21:35:00,168,True,"berry_boost, orange",False,,False,46-55
+970,Male,1978-05-19,46,Premium,2,"Thu, Tue",False,,08:22:00,10:52:00,150,False,,True,Mike,True,46-55
+975,Male,1976-10-08,48,Standard,3,"Fri, Sun, Wed",False,,11:07:00,12:43:00,96,True,"berry_boost, coconut_pineapple",True,Hanna,True,46-55
+985,Female,1975-10-12,49,Premium,1,Fri,True,"Pilates, Kickboxen, BodyBalance",15:17:00,17:00:00,103,True,coconut_pineapple,False,,False,46-55
+987,Female,1979-03-14,45,Premium,5,"Fri, Mon, Sun, Thu, Wed",False,,19:04:00,20:44:00,100,True,orange,True,Chantal,True,36-45
+988,Male,1977-07-29,47,Premium,3,"Mon, Sun, Tue",False,,10:48:00,12:33:00,105,True,"black_currant, lemon",False,,True,46-55

@@ -1,0 +1,5 @@
+       personal_training                  
+                   count unique   top freq
+gender                                    
+Female                51      2  True   33
+Male                  81      2  True   47
