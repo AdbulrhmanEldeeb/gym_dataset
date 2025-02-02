@@ -2,6 +2,11 @@
 
 ## Overview  
 This project analyzes gym membership data to extract insights about member behaviors, subscriptions, and habits. Various visualizations and summary statistics are generated using Python, Pandas, and Plotly.  
+## 📌 Dataset on Kaggle  
+[Gym Membership Dataset](https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset)  
+
+## 📊 Kaggle Notebook  
+[Gym Membership Data Analysis](https://www.kaggle.com/code/abdulrhmaneldeeb/gym-eda0)  
 
 ## Features  
 - **Exploratory Data Analysis (EDA)**: Understanding the dataset with descriptive statistics.  
