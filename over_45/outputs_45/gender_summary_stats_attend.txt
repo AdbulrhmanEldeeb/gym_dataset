@@ -1,0 +1,5 @@
+       attend_group_lesson                   
+                     count unique    top freq
+gender                                       
+Female                  51      2  False   26
+Male                    81      2  False   42

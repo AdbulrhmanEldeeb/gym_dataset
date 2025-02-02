@@ -1,0 +1,5 @@
+       avg_time_in_gym                                             
+                 count   mean   std   min   25%   50%    75%    max
+gender                                                             
+Female            51.0   99.0  43.9  35.0  57.0  91.0  137.0  177.0
+Male              81.0  100.7  45.7  30.0  57.0  93.0  138.0  180.0

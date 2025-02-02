@@ -1,5 +1,5 @@
-       abonoment_type                     
-                count unique      top freq
-gender                                    
-Female             51      2  Premium   30
-Male               81      2  Premium   44
+       abonoment_type                      
+                count unique       top freq
+gender                                     
+Female            503      2  Standard  261
+Male              497      2   Premium  251
