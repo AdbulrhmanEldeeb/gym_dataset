@@ -20,7 +20,7 @@ This project analyzes gym membership data to extract insights about member behav
 - Segmented data into different age groups (e.g., members over 45 and under 15).  
 ## Association Rule Mining
 - notebook of association rules [here](notebooks/assosiation_rules_.ipynb)
-- data of association rules [here](/association_rules)
+- data of association rules in assosiation rules dir
 - Using the Apriori algorithm, we identified frequent itemsets and association rules in gym members' preferred group lessons.
 
 Key Insights
