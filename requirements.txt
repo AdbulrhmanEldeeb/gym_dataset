@@ -1,5 +1,5 @@
-pandas
-plotly
-mlxtend
-numpy
+pandas==2.2.3
+plotly==6.0.0
+mlxtend==0.23.4
+numpy==1.26.4
 
