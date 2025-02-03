@@ -1,0 +1,25 @@
+support,itemsets
+0.497,frozenset({''})
+0.112,frozenset({'BodyPump'})
+0.099,frozenset({'LesMiles'})
+0.097,frozenset({'HIT'})
+0.095,frozenset({'Pilates'})
+0.09,frozenset({'XCore'})
+0.09,frozenset({'Yoga'})
+0.087,frozenset({'BodyBalance'})
+0.085,frozenset({'Spinning'})
+0.085,frozenset({'Kickboxen'})
+0.082,frozenset({'Running'})
+0.081,frozenset({'Zumba'})
+0.019,"frozenset({'Yoga', 'Pilates'})"
+0.017,"frozenset({'BodyPump', 'Pilates'})"
+0.017,"frozenset({'HIT', 'Kickboxen'})"
+0.016,"frozenset({'BodyPump', 'Zumba'})"
+0.016,"frozenset({'LesMiles', 'Kickboxen'})"
+0.016,"frozenset({'XCore', 'Spinning'})"
+0.016,"frozenset({'BodyPump', 'XCore'})"
+0.015,"frozenset({'BodyPump', 'Yoga'})"
+0.015,"frozenset({'HIT', 'LesMiles'})"
+0.015,"frozenset({'LesMiles', 'Running'})"
+0.015,"frozenset({'BodyPump', 'Kickboxen'})"
+0.015,"frozenset({'BodyBalance', 'Running'})"
