@@ -45,4 +45,5 @@ This project analyzes gym membership data to extract insights about member behav
 - Pandas  
 - Plotly  
 - NumPy  
+- mlxtend
 
