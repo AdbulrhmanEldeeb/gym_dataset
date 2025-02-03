@@ -18,6 +18,16 @@ This project analyzes gym membership data to extract insights about member behav
 - Extracted key metrics such as **average time in gym**, **visit frequency**, and **personal training participation**.  
 - Generated pivot tables to compare trends by **gender** and **subscription type**.  
 - Segmented data into different age groups (e.g., members over 45 and under 15).  
+## Association Rule Mining
+- notebook of association rules [here](notebooks/assosiation_rules_.ipynb)
+- data of association rules [here](/association_rules)
+- Using the Apriori algorithm, we identified frequent itemsets and association rules in gym members' preferred group lessons.
+
+Key Insights
+
+- Frequent Itemsets: Popular combinations of gym classes members frequently attend together.
+
+- Association Rules: Relationships between different classes based on member preferences.
 
 ## Visualizations  
 1. **Bar Charts**:  
